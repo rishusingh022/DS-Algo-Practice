@@ -1,3 +1,4 @@
 Optional Questions
 - 2 Questions in Queue assignment
 - 1 Question in Doubly Linked List assignment
+- 2 Questions in Hasing assignment
